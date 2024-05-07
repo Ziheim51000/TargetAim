@@ -147,7 +147,7 @@ task.spawn(function()
                wait(0.5)
            end 
        else
-           menu.bg.pre.Text = 'eclipse.wtf | <font color="rgb(189, 172, 255)">fallen</font>'
+           menu.bg.pre.Text = 'ravioli.club | <font color="rgb(189, 172, 255)">Beta</font>'
        end
    end
 end)  
